@@ -1,0 +1,7 @@
+# Add all DIR and files should not be committed
+
+# Nico's files
+my_notes
+rawdata/*.fastq
+
+# Jinny's files

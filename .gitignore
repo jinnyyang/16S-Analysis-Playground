@@ -2,6 +2,7 @@
 
 # Nico's files
 my_notes
+rawdata/
 rawdata/*.fastq
 pipeline_USEARCH/testing/*.sh
 pipeline_USEARCH/code/usearch_pipeline_v.0.1.sh

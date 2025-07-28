@@ -1,0 +1,7 @@
+# USEARCH pipeline config
+
+# define the working directory 
+WORK_DIR="/mnt/research/glbrc_group/benuccigmn/projects/project_Workshop16S/16S-Analysis-Playground"
+
+# define path for usearch executable
+USEARCH="/mnt/research/glbrc_group/benuccigmn/projects/project_Workshop16S/16S-Analysis-Playground/pipeline_USEARCH/usearch/usearch11.0.667_i86linux64"

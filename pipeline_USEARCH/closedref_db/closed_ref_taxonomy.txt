@@ -1,0 +1,42 @@
+Kingdom	Phylum	Class	Order	Family	Genus	Species	ID
+Bacteria	 Actinobacteria	 Actinomycetia	 Micrococcales	 Micrococcaceae	 Arthrobacter	 Arthrobacter sp. 131MFCol6.1	SynComSL001
+Bacteria	 Actinobacteria	 Actinomycetia	 Micrococcales	 Micrococcaceae	 Arthrobacter	 Arthrobacter sp. 161MFSha2.1	SynComSL002
+Bacteria	 Actinobacteria	 Actinomycetia	 Micrococcales	 Microbacteriaceae	 Curtobacterium	 Curtobacterium sp. 314Chir4.1	SynComSL003
+Bacteria	 Actinobacteria	 Actinomycetia	 Streptomycetales	 Streptomycetaceae	 Streptomyces	 Streptomyces sp. 303MFCol5.2	SynComSL004
+Bacteria	 Actinobacteria	 Actinomycetia	 Corynebacteriales	 Mycobacteriaceae	 Mycobacterium	 Mycobacterium sp. UNC267MFSha1.1M11	SynComSL005
+Bacteria	 Actinobacteria	 Actinomycetia	 Corynebacteriales	 Nocardiaceae	 Rhodococcus	 Rhodococcus sp. 29MFTsu3.1	SynComSL006
+Bacteria	 Actinobacteria	 Actinomycetia	 Streptomycetales	 Streptomycetaceae	 Streptomyces	 Streptomyces canus 299MFChir4.1	SynComSL007
+Bacteria	 Actinobacteria	 Actinomycetia	 Propionibacteriales	 Nocardioidaceae	 Nocardioides	 Nocardioides sp. UNC345MFTsu5.1	SynComSL008
+Bacteria	 Actinobacteria	 Actinomycetia	 Streptomycetales	 Streptomycetaceae	 Streptomyces	 Streptomyces sp. UNC401CLCol	SynComSL009
+Bacteria	 Proteobacteria	 Alphaproteobacteria	 Caulobacterales	 Caulobacteraceae	 Brevundimonas	 Brevundimonas sp. 374	SynComSL010
+Bacteria	 Proteobacteria	 Alphaproteobacteria	 Hyphomicrobiales	 Rhizobiaceae	 Agrobacterium	 Agrobacterium sp. 33MFTa1.1	SynComSL011
+Bacteria	 Proteobacteria	 Alphaproteobacteria	 Hyphomicrobiales	 Methylobacteriaceae	 Methylobacterium	 Methylobacterium sp. 285MFTsu5.1	SynComSL012
+Bacteria	 Proteobacteria	 Alphaproteobacteria	 Hyphomicrobiales	 Brucellaceae	 Ochrobactrum	 Ochrobactrum sp. 370MFChir3.1	SynComSL013
+Bacteria	 Proteobacteria	 Alphaproteobacteria	 Hyphomicrobiales	 Rhizobiaceae	 Rhizobium	 Rhizobium sp. 2MFCol3.1	SynComSL014
+Bacteria	 Proteobacteria	 Alphaproteobacteria	 Hyphomicrobiales	 Phyllobacteriaceae	 Phyllobacterium	 Phyllobacterium sp. UNC302MFCol5.2	SynComSL015
+Bacteria	 Proteobacteria	 Alphaproteobacteria	 Hyphomicrobiales	 Boseaceae	 Bosea	 Bosea sp. UNC402CLCol	SynComSL016
+Bacteria	 Bacteroidetes	 Flavobacteriia	 Flavobacteriales	 Weeksellaceae	 Chryseobacterium	 Chryseobacterium sp. UNC8MFCol	SynComSL017
+Bacteria	 Bacteroidetes	 Flavobacteriia	 Flavobacteriales	 Flavobacteriaceae	 Flavobacterium	 Flavobacterium sp. 40S8	SynComSL018
+Bacteria	 Bacteroidetes	 Flavobacteriia	 Flavobacteriales	 Weeksellaceae	 Chryseobacterium	 Chryseobacterium sp. RU37D	SynComSL019
+Bacteria	 Bacteroidetes	 Flavobacteriia	 Flavobacteriales	 Weeksellaceae	 Chryseobacterium	 Chryseobacterium sp. RU33C	SynComSL020
+Bacteria	 Proteobacteria	 Betaproteobacteria	 Burkholderiales	 Burkholderiaceae	 Burkholderia	 Burkholderia CL11	SynComSL021
+Bacteria	 Proteobacteria	 Betaproteobacteria	 Burkholderiales	 Burkholderiaceae	 Ralstonia	 Ralstonia sp. UNC404CL21Col	SynComSL022
+Bacteria	 Proteobacteria	 Betaproteobacteria	 Burkholderiales	 Comamonadaceae	 Variovorax	 Variovorax paradoxus CL14	SynComSL023
+Bacteria	 Proteobacteria	 Betaproteobacteria	 Burkholderiales	 Oxalobacteraceae	 Janthinobacterium	 Janthinobacterium sp. TND4EL3	SynComSL024
+Bacteria	 Proteobacteria	 Betaproteobacteria	 Burkholderiales	 Comamonadaceae	 Pseudacidovorax	 Pseudacidovorax sp. RU35E	SynComSL025
+Bacteria	 Firmicutes	 Bacilli	 Bacillales	 Bacillaceae	 Priestia	 Priestia megaterium 27Col1.1E	SynComSL026
+Bacteria	 Firmicutes	 Bacilli	 Bacillales	 Bacillaceae	 Bacillus	 Bacillus sp. UNC41MFS5	SynComSL027
+Bacteria	 Firmicutes	 Bacilli	 Bacillales	 Bacillaceae	 Bacillus	 Bacillus sp. UNC125MFCrub1.1	SynComSL028
+Bacteria	 Firmicutes	 Bacilli	 Bacillales	 Paenibacillaceae	 Paenibacillus	 Paenibacillus sp. RU4X	SynComSL029
+Bacteria	 Firmicutes	 Bacilli	 Bacillales	 Bacillaceae	 Bacillus	 Bacillus sp. RU27A	SynComSL030
+Bacteria	 Firmicutes	 Bacilli	 Bacillales	 Paenibacillaceae	 Paenibacillus	 Paenibacillus sp. RU26A	SynComSL031
+Bacteria	 Proteobacteria	 Gammaproteobacteria	 Enterobacterales	 Enterobacteriaceae	 Escherichia	 Escherichia coli DH5a	SynComSL032
+Bacteria	 Proteobacteria	 Gammaproteobacteria	 Xanthomonadales	 Rhodanobacteraceae	 Dyella	 Dyella japonica UNC79MFTsu3.2	SynComSL033
+Bacteria	 Proteobacteria	 Gammaproteobacteria	 Xanthomonadales	 Rhodanobacteraceae	 Luteibacter	 Luteibacter sp. Sphag1AF	SynComSL034
+Bacteria	 Proteobacteria	 Gammaproteobacteria	 Enterobacterales	 Erwiniaceae	 Pantoea	 Pantoea sp. AlfR4	SynComSL035
+Bacteria	 Proteobacteria	 Gammaproteobacteria	 Pseudomonadales	 Pseudomonadaceae	 Pseudomonas	 Pseudomonas sp 395MF	SynComSL036
+Bacteria	 Proteobacteria	 Gammaproteobacteria	 Pseudomonadales	 Pseudomonadaceae	 Pseudomonas	 Pseudomonas sp. KD5	SynComSL037
+Bacteria	 Proteobacteria	 Gammaproteobacteria	 Pseudomonadales	 Pseudomonadaceae	 Pseudomonas	 Pseudomonas umsongensis UNC430CL58Col	SynComSL038
+Bacteria	 Proteobacteria	 Gammaproteobacteria	 Moraxellales	 Moraxellaceae	 Acinetobacter	 Acinetobacter sp. UNC434CL69Tsu2S25	SynComSL039
+Bacteria	 Proteobacteria	 Gammaproteobacteria	 Pseudomonadales	 Pseudomonadaceae	 Pseudomonas	 Pseudomonas simiae WCS417	SynComSL040
+

@@ -12,5 +12,12 @@ pipeline_USEARCH/taxonomy_db/ltp_16s_v123.fa
 pipeline_USEARCH/taxonomy_db/ltp_16s_v123.udb
 pipeline_USEARCH/taxonomy_db/rdp_16s_v16.fa
 pipeline_USEARCH/taxonomy_db/rdp_16s.udb
+pipeline_USEARCH/stats
+pipeline_USEARCH/results
+pipeline_USEARCH/testing
+pipeline_USEARCH/logs
+pipeline_USEARCH/taxonomy_db/*.udb
+pipeline_USEARCH/taxonomy_db/*.fa
+pipeline_USEARCH/usearch/*linux64
 
 # Jinny's files

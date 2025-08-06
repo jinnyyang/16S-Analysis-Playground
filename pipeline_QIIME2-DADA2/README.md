@@ -28,9 +28,9 @@ git clone https://github.com/jinnyyang/16S-Analysis-Playground.git
 ```
 
 ### 3. Copy raw sequences in cutadapt_QIIME2_DADA2/
-    - Download "RawSeq" file from:
-    - Upload to HPCC 
-    - Unzip the file: unzip RawSeq.zip 
+    1. Download "RawSeq" file from:
+    2. Upload to HPCC 
+    3. Unzip the file: unzip RawSeq.zip 
   
 
 

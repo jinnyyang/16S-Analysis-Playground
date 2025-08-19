@@ -28,9 +28,9 @@ a. If you have access to Lebeis lab file, open terminal page and commend and ent
 
 b. Or download “16SAmpliconWorkshop_20250819.zip” from my OneDrive: https://michiganstate-my.sharepoint.com/:u:/g/personal/yangjinn_msu_edu/EXzCTBLp_xNLolFoeP5v1vcBXgEhIzXB45hRKTafg9J7dg?e=ZQgscE
 
-Unzip the zip file: ```bash unzip 16SAmpliconWorkshop_20250819.zip . ```
+Unzip the zip file: ``` unzip 16SAmpliconWorkshop_20250819.zip . ```
 
-Enter the file: ```bash cd 16SAmpliconWorkshop_20250819/HPCC ```
+Enter the file: ``` cd 16SAmpliconWorkshop_20250819/HPCC ```
 
-Run a job: ```bash sbatch cutadapt_Qiime2_DATA2_blastn.sh ```
+Run a job: ``` sbatch cutadapt_Qiime2_DATA2_blastn.sh ```
 

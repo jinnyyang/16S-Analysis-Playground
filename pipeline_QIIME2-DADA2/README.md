@@ -25,7 +25,7 @@ conda activate qiime2-2024.10
 ```
 
 ### 2. Copy "16SAmpliconWorkshop_20250819.zip" to HPCC and start a job
-a. If you have access to Lebeis lab file, open terminal page and commend and enter: 
+a. If you have access to Lebeis lab file, open terminal page and enter: 
 ``` cp /mnt/research/LebeisLab/Yang/16SAmpliconWorkshop_20250819.zip .	```
 
 b. Or download “16SAmpliconWorkshop_20250819.zip” from my OneDrive: https://michiganstate-my.sharepoint.com/:u:/g/personal/yangjinn_msu_edu/EXzCTBLp_xNLolFoeP5v1vcBXgEhIzXB45hRKTafg9J7dg?e=ZQgscE

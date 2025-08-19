@@ -28,7 +28,7 @@ cp /mnt/research/LebeisLab/Yang/16SAmpliconWorkshop_20250819.zip .
 
 b. Or download “16SAmpliconWorkshop_20250819.zip” from my OneDrive: https://michiganstate-my.sharepoint.com/:u:/g/personal/yangjinn_msu_edu/EXzCTBLp_xNLolFoeP5v1vcBXgEhIzXB45hRKTafg9J7dg?e=ZQgscE
 
-Unzip the zip file: unzip 16SAmpliconWorkshop_20250819.zip .
+Unzip the zip file: ```bash unzip 16SAmpliconWorkshop_20250819.zip . ```
 
 Enter the file: cd 16SAmpliconWorkshop_20250819/HPCC
 

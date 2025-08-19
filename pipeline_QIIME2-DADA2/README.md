@@ -9,7 +9,9 @@ This example pipeline is for training purposes only and was developed exclusivel
 ## Setup Instructions
 To run this example pipeline, you need to:
 
-### 1. Install QIIME2 on the HPCC at Michigan State University 
+### 1. Install QIIME2 on the HPCC at Michigan State University
+Enter MSU HPCC through Dashboard: https://ondemand.hpcc.msu.edu/pun/sys/dashboard/
+
 ```bash
 wget https://data.qiime2.org/distro/amplicon/qiime2-amplicon-2024.10-py310-linux-conda.yml
 

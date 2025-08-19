@@ -1,5 +1,5 @@
 # QIIME2_DADA2 Pipeline Guidelines
-**Author:** Jinny Yang 
+**Author:** Jinny Yang
 **Email:** [yangjinn@msu.edu](mailto:yangjinn@msu.edu)  
 **Date:** August 19, 2025
 

@@ -4,7 +4,7 @@
 **Date:** August 19, 2025
 
 ## Overview
-This example pipeline is for training purposes only and was developed exclusively for the 16S workshop.
+This example pipeline is for training purposes only and was developed exclusively for the 16S ampicon workshop.
 
 ## Setup Instructions
 To run this example pipeline, you need to:
